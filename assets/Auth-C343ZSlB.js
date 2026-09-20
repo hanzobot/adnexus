@@ -1,0 +1,1 @@
+import{r as t,j as e}from"./ui-SA1K2VdO.js";const r=()=>(t.useEffect(()=>{window.location.href="https://dsp.ad.nexus"},[]),e.jsx("div",{className:"min-h-screen flex items-center justify-center",children:e.jsx("div",{className:"text-center",children:e.jsx("p",{className:"text-lg",children:"Redirecting to login..."})})}));export{r as default};
